@@ -1,5 +1,5 @@
 # House-Generator
-Procedurally generated 3D houses
+Procedurally generated 3D housing with packed interiors. 
 
 <img src="https://pbs.twimg.com/media/DNuFD-XW0AEwb8F?format=jpg&name=small" height=400px>
 <div>
